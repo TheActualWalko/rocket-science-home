@@ -6,9 +6,17 @@ body {
         max-width: 2049px;
      }
 
-header {text-align:center;}
+header {
+          text-align:center;
+          border-bottom-style:solid;
+          border-bottom-color:white;
+          border-bottom-width:1px
+       }
 
-header p {width:650px; display:inline-block;}
+header p {
+            width:650px; 
+            display:inline-block;
+         }
 
 section {}
 
