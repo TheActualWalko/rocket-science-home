@@ -1,11 +1,12 @@
 /* style sheet for rocket science home */
 
 body {
-        background-image: url("background.png");
-        background-repeat: repeat-y;
+        background-image:url("background.png");
+        background-repeat:repeat-y;
+        max-width: 2049px;
      }
 
-header {}
+header {text-align:center;}
 
 section {}
 
@@ -13,14 +14,18 @@ h1 {color:white;}
 
 h2 {}
 
+#section-title {text-align:center;}
+
 h3 {color:white;}
 
 h4 {}
 
-ul {}
+ul {margin:0;padding:0; list-style-type:none; text-align:center;}
 
-li {}
+ul li {display:inline-block; max-width:650px; margin:10px}
+
+ul p {max-width:400px; text-align:left;}
 
 a {}
 
-footer {}
+footer {text-align:center;}
