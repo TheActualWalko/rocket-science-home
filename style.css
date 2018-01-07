@@ -1,6 +1,9 @@
 /* style sheet for rocket science home */
 
-body {}
+body {
+        background-image: url("background.png");
+        background-repeat: repeat-y;
+     }
 
 header {}
 
