@@ -8,6 +8,8 @@ body {
 
 header {text-align:center;}
 
+header p {width:650px; display:inline-block;}
+
 section {}
 
 h1 {color:white;}
