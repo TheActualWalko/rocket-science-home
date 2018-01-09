@@ -39,6 +39,8 @@ h2 {
 
 #section-title {text-align:center;}
 
+.team-member img {border-radius:50%;}
+
 h3 {
       font-family:"Gotham", sans-serif;
       font-size:16pt;
