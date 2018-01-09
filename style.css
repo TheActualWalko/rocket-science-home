@@ -16,19 +16,43 @@ header {
 header p {
             width:650px; 
             display:inline-block;
+            font-family:"Gotham Book", sans-serif;
+            font-size:14pt;
+            color:#FFF;
          }
 
 section {}
 
-h1 {color:white;}
+h1 {
+      font-family:"Gotham", sans-serif;
+      font-size:16pt;
+      font-weight:bold;
+      color:#FFF;
+   }
 
-h2 {}
+h2 {
+      font-family:"Gotham Book", sans-serif;
+      font-size:14pt;
+      color:#FFF;
+      opacity:0.5;
+   }
 
 #section-title {text-align:center;}
 
-h3 {color:white;}
+h3 {
+      font-family:"Gotham", sans-serif;
+      font-size:16pt;
+      font-weight:bold;
+      color:#FFF;
+   }
 
-h4 {}
+h4 {
+      font-family:"Gotham Book", sans-serif;
+      font-size:16pt;
+      font-style:italic;
+      color:#FFF;
+      opacity:0.5;
+}
 
 ul {
       margin:0;padding:0;
@@ -45,8 +69,17 @@ ul li {
 ul p {
         max-width:400px;
         text-align:left;
+        font-family:"Gotham Book", sans-serif;
+        font-size:13pt;
+        color:#FFF;
      }
 
 a {}
 
-footer {text-align:center;}
+footer {
+          text-align:center;
+          font-family:"Gotham Book", sans-serif;
+          font-size:11pt;
+          color:#FFF;
+          opacity:0.5;
+       }
