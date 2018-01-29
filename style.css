@@ -9,7 +9,7 @@ header {
           text-align: center;
           border-bottom-style: solid;
           border-bottom-color: white;
-          border-bottom-width: 1px
+          border-bottom-width: 1px;
 }
 
 header p {
@@ -35,11 +35,11 @@ h2 {
 }
 
 #section-title {
-                  text-align: center
+                  text-align: center;
 }
 
 .team-member img {
-                    border-radius: 50
+                    border-radius: 50;
 }
 
 h3 {
@@ -54,7 +54,8 @@ h4 {
       font-size: 18px;
       font-style: italic;
       color: #fff;
-      opacity: 0.5}
+      opacity: 0.5;
+}
 
 ul {
       margin: 0;
@@ -66,7 +67,7 @@ ul {
 ul li { 
          display: inline-block;
          max-width: 650px;
-         margin: 10px
+         margin: 10px;
 }
 
 ul p {
