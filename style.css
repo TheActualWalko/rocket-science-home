@@ -1,90 +1,90 @@
 body {
-        background-image: url('background.png');
-        background-repeat: no-repeat;
-        background-color: #000;
-        max-width: 2049px;
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-color: #000;
+  max-width: 2049px;
 }
 
 header {
-          text-align: center;
-          border-bottom-style: solid;
-          border-bottom-color: white;
-          border-bottom-width: 1px;
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-color: white;
+  border-bottom-width: 1px;
 }
 
 header p {
-            width: 650px; 
-            display: inline-block;
-            font-family: 'Gotham Book', sans-serif;
-            font-size: 16px;
-            color: #fff;
+  width: 650px; 
+  display: inline-block;
+  font-family: 'Gotham Book', sans-serif;
+  font-size: 16px;
+  color: #fff;
 }
 
 h1 {
-      font-family: 'Gotham', sans-serif;
-      font-size: 18px;
-      font-weight: bold;
-      color: #fff;
+  font-family: 'Gotham', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
 }
 
 h2 {
-      font-family: 'Gotham Book', sans-serif;
-      font-size: 16px;
-      color: #fff;
-      opacity: 0.5;
+  font-family: 'Gotham Book', sans-serif;
+  font-size: 16px;
+  color: #fff;
+  opacity: 0.5;
 }
 
 #section-title {
-                  text-align: center;
+  text-align: center;
 }
 
 .team-member img {
-                    border-radius: 50;
+  border-radius: 50;
 }
 
 h3 {
-      font-family: 'Gotham', sans-serif;
-      font-size: 18px;
-      font-weight: bold;
-      color: #fff;
+  font-family: 'Gotham', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
 }
 
 h4 {
-      font-family: 'Gotham Book', sans-serif;
-      font-size: 18px;
-      font-style: italic;
-      color: #fff;
-      opacity: 0.5;
+  font-family: 'Gotham Book', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  color: #fff;
+  opacity: 0.5;
 }
 
 ul {
-      margin: 0;
-      padding: 0;
-      list-style-type: none;
-      text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
 }
 
-ul li { 
-         display: inline-block;
-         max-width: 650px;
-         margin: 10px;
+ul li {
+  display: inline-block;
+  max-width: 650px;
+  margin: 10px;
 }
 
 ul p {
-        max-width: 400px;
-        text-align: left;
-        font-family: 'Gotham Book', sans-serif;
-        font-size: 15px;
-        color: #fff;
+  max-width: 400px;
+  text-align: left;
+  font-family: 'Gotham Book', sans-serif;
+  font-size: 15px;
+  color: #fff;
 }
 
 
 footer {
-          text-align: center;
-          font-family: 'Gotham Book', sans-serif;
-          font-size: 13px;
-          color: #fff;
-          opacity: 0.5;
-          margin-top: 50px;
-          margin-bottom: 30px;
+  text-align: center;
+  font-family: 'Gotham Book', sans-serif;
+  font-size: 13px;
+  color: #fff;
+  opacity: 0.5;
+  margin-top: 50px;
+  margin-bottom: 30px;
 }
