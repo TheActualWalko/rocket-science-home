@@ -7,9 +7,18 @@ body {
 
 header {
   text-align: center;
-  border-bottom-style: solid;
-  border-bottom-color: white;
-  border-bottom-width: 1px;
+  border-bottom: solid white 1px;
+
+}
+
+header:after {
+  content:'';
+  display:block;
+  position:absolute;
+  width:150px;
+  bottom:-5px;
+  left:0px;
+  border:5px solid white;
 }
 
 header p {
