@@ -2,7 +2,7 @@ body {
   background-image: url('background.png');
   background-repeat: no-repeat;
   background-color: #000;
-  max-width: 2049px;
+  background-size:cover;
 }
 
 header {
