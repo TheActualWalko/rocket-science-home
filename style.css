@@ -20,13 +20,24 @@ header:after {
   width: 80%;
 }
 
+header img{
+  width: 125px
+  height: auto;
+}
+
 header p {
   width: 650px; 
   display: inline-block;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: #fff;
-  font-weight:600;
+  font-weight: 600;
+  padding-top: 25px;
+  padding-bottom: 75px;
+}
+
+#team {
+  padding-top:80px;
 }
 
 h1 {
@@ -65,7 +76,6 @@ h3 {
 h4 {
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
-  font-style: italic;
   color: #fff;
   opacity: 0.5;
   font-weight:100;
@@ -90,11 +100,19 @@ ul p {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   color: #fff;
+  text-align: justify;
 }
 
 .social-link img{
-  width:auto;
-  height:28px;
+  width: 45px;
+  height: 45px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#linkedin img{
+  width:35px;
+  height: 35px;
 }
 
 
